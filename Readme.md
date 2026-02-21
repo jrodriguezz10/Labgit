@@ -14,3 +14,6 @@ Descripción breve respondiendo:
 - src: Colocan aca frontend, backend, lambdas
 - config:Ansible, .sh
 - serverapps: SonarQube, Checkov, Jenkins, Grafana ...
+
+## ejemplos 
+ - Bueno  haciendo comits y creando ramas
